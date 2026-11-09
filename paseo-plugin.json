@@ -1,0 +1,9 @@
+{
+  "id": "terminal-launcher",
+  "name": "Terminal Launcher",
+  "description": "Save groups of bash scripts and open each one in its own workspace terminal with one action.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.0"
+  }
+}
